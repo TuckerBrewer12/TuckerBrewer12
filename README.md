@@ -9,15 +9,15 @@ I'm studying CS @ UC Irvine (minor in Statistics), graduating Dec 2027. Previous
 ---
 
 ### Building
-- **[BirdieEyeView](https://birdie-eye-view.com)**: photograph a golf scorecard and get your data back in ~15 seconds. FastAPI + Postgres backend with an OCR + LLM pipeline, React frontend, and AI review bots on PRs.
-- **Fourty Two**: multiplayer Texas Dominoes game.
-- **[TuckerSophie](https://github.com/TuckerBrewer12/TuckerSophie)**: message analyzer for my girlfriend.
+- **[BirdieEyeView](https://birdie-eye-view.com)**: photograph a golf scorecard and get your data back in ~10 seconds. FastAPI + Postgres backend with an OCR + LLM pipeline, React frontend, and AI review bots on PRs.
 
 ---
 
 ### Previously
 - **Toast**: took a stalled POS customer lookup screen from 6% to 90%+ rollout
 - **Agonus**: AI trading bots competing head-to-head in crypto trading tournaments. Worked on as part of the tech team @ Blockchain at UCI
+- **Fourty Two**: multiplayer Texas Dominoes game.
+- **[TuckerSophie](https://github.com/TuckerBrewer12/TuckerSophie)**: message analyzer for my girlfriend.
 
 ---
 
