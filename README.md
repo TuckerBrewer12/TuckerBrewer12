@@ -1,4 +1,4 @@
-## Hi, I'm Tucker!
+## Hi, I'm [Tucker](https://www.tuckerbrewer.com/)!
 
 I'm studying CS @ UC Irvine (minor in Statistics), graduating Dec 2027. Previously a SWE intern at Toast. Tech team @ Blockchain at UCI.
 
