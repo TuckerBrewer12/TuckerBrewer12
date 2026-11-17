@@ -1,6 +1,6 @@
-## Hi, I'm Tucker
+## Hi, I'm Tucker!
 
-CS @ UC Irvine (minor in Statistics), graduating Dec 2027. Previously a SWE intern at Toast. Tech team @ Blockchain at UCI.
+I'm studying CS @ UC Irvine (minor in Statistics), graduating Dec 2027. Previously a SWE intern at Toast. Tech team @ Blockchain at UCI.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuckerbrewer)
 [![BirdieEyeView](https://img.shields.io/badge/BirdieEyeView-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white)](https://birdie-eye-view.com)
